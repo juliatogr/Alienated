@@ -79,6 +79,7 @@
     <IncludePath>..\libs\include;$(IncludePath)</IncludePath>
     <ReferencePath>$(ReferencePath)</ReferencePath>
     <LibraryPath>..\libs\lib;$(LibraryPath)</LibraryPath>
+    <OutDir>..\..</OutDir>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
