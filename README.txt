@@ -1,8 +1,3 @@
-NOMBRE: Júlia Tortosa Grau
-NIA: 227215
-UNIS: u173375
-EMAIL: julia.tortosa01@estudiant.upf.edu
-
 Link al video de youtube: https://www.youtube.com/watch?v=PQFnSkHcn0M
 
 COMENTARIOS:
@@ -29,6 +24,4 @@ COMENTARIOS:
 - Me parecía interesante crear un background con efecto parallax y ahí está, espero que se pueda apreciar!
 
 - Me hubiera gustado hacer que los jefes finales dispararan (por eso que se puede agachar el robot, para esquivar sus balas),
-  y que los ovnis lo hicieran también, pero de arriba a abajo. Sin embargo, no me dio tiempo de hacer más.
-
-- Tuve un error al pasarlo a modo debug, pero lo arreglé a la mañana siguiente, por eso he actualizado la entrega.
+  y que los ovnis lo hicieran también, pero de arriba a abajo. Sin embargo, no me dio tiempo de hacer más. (Seguiré actualizando)
